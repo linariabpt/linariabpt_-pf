@@ -163,7 +163,7 @@ footer ul{
 }
 /* ItemsページのCSS */
 #item-sec1{
-    background:url(images/item-top.jpg);
+    background:url(item-top.jpg);
     background-size:cover;
     background-position:center;
     height:600px;
